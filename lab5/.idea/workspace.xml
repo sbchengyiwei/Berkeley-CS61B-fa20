@@ -1,0 +1,209 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:skeleton" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="5911cc44-d947-4a9b-a0c5-775cd1e3c43c" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/TimeSLList.java" beforeDir="false" afterPath="$PROJECT_DIR$/TimeSLList.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1hzFAmxiBJkX72zUgzC6oHcCcwJ" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="extract.method.default.visibility" value="private" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+  </component>
+  <component name="RunManager" selected="JUnit.TestRedBlackFloorSet.randomizedTest">
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <module />
+      <method />
+    </configuration>
+    <configuration name="StopwatchDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="StopwatchDemo" />
+      <module name="lab5" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TimeAList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="TimeAList" />
+      <module name="lab5" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TimeSLList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="TimeSLList" />
+      <module name="lab5" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestRedBlackFloorSet.randomizedTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="lab5" />
+      <useClassPathOnly />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="TestRedBlackFloorSet" />
+      <option name="METHOD_NAME" value="randomizedTest" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" value="-XX:+ShowCodeDetailsInExceptionMessages" />
+      <option name="PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <useClassPathOnly />
+      <option name="MAIN_CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-XX:+ShowCodeDetailsInExceptionMessages" />
+      <option name="PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="TestNG">
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+      <option name="PROGRAM_PARAMETERS" />
+      <predefined_log_file enabled="true" id="idea.log" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.TestRedBlackFloorSet.randomizedTest" />
+        <item itemvalue="Application.TimeSLList" />
+        <item itemvalue="Application.TimeAList" />
+        <item itemvalue="Application.StopwatchDemo" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5911cc44-d947-4a9b-a0c5-775cd1e3c43c" name="Default Changelist" comment="" />
+      <created>1601005872477</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1601005872477</updated>
+      <workItem from="1601005873879" duration="355000" />
+      <workItem from="1601130906775" duration="8841000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1352" height="295" key="GridCell.Tab.0.bottom" timestamp="1601257607869">
+      <screen x="41" y="0" width="1399" height="900" />
+    </state>
+    <state width="1352" height="295" key="GridCell.Tab.0.bottom/41.0.1399.900@41.0.1399.900" timestamp="1601257607869" />
+    <state width="1352" height="238" key="GridCell.Tab.0.bottom/44.0.1396.900@44.0.1396.900" timestamp="1601141226089" />
+    <state width="1352" height="295" key="GridCell.Tab.0.center" timestamp="1601257607868">
+      <screen x="41" y="0" width="1399" height="900" />
+    </state>
+    <state width="1352" height="295" key="GridCell.Tab.0.center/41.0.1399.900@41.0.1399.900" timestamp="1601257607868" />
+    <state width="1352" height="238" key="GridCell.Tab.0.center/44.0.1396.900@44.0.1396.900" timestamp="1601141226088" />
+    <state width="1352" height="295" key="GridCell.Tab.0.left" timestamp="1601257607866">
+      <screen x="41" y="0" width="1399" height="900" />
+    </state>
+    <state width="1352" height="295" key="GridCell.Tab.0.left/41.0.1399.900@41.0.1399.900" timestamp="1601257607866" />
+    <state width="1352" height="238" key="GridCell.Tab.0.left/44.0.1396.900@44.0.1396.900" timestamp="1601141226087" />
+    <state width="1352" height="295" key="GridCell.Tab.0.right" timestamp="1601257607869">
+      <screen x="41" y="0" width="1399" height="900" />
+    </state>
+    <state width="1352" height="295" key="GridCell.Tab.0.right/41.0.1399.900@41.0.1399.900" timestamp="1601257607869" />
+    <state width="1352" height="238" key="GridCell.Tab.0.right/44.0.1396.900@44.0.1396.900" timestamp="1601141226088" />
+    <state x="230" y="31" key="SettingsEditor" timestamp="1601130971201">
+      <screen x="44" y="0" width="1396" height="900" />
+    </state>
+    <state x="230" y="31" key="SettingsEditor/44.0.1396.900@44.0.1396.900" timestamp="1601130971201" />
+    <state x="480" y="205" key="extract.method.dialog" timestamp="1601138931840">
+      <screen x="44" y="0" width="1396" height="900" />
+    </state>
+    <state x="480" y="205" key="extract.method.dialog/44.0.1396.900@44.0.1396.900" timestamp="1601138931840" />
+    <state x="407" y="101" width="670" height="676" key="search.everywhere.popup" timestamp="1601132691942">
+      <screen x="44" y="0" width="1396" height="900" />
+    </state>
+    <state x="407" y="101" width="670" height="676" key="search.everywhere.popup/44.0.1396.900@44.0.1396.900" timestamp="1601132691942" />
+  </component>
+</project>

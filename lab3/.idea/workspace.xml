@@ -1,0 +1,199 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="18a7bf0e-0ccb-4fb6-86ee-7e69f25eecef" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1hM36bflxATAWZ2pLQ35AnmRCiS" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RunManager" selected="JUnit.BuggyIntDListTest.testMergeIntDList">
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <module />
+      <method />
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ArithmeticTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="lab3" />
+      <useClassPathOnly />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="ArithmeticTest" />
+      <option name="METHOD_NAME" value="" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-XX:+ShowCodeDetailsInExceptionMessages" />
+      <option name="PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BuggyIntDListTest.testMergeIntDList" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="lab3" />
+      <useClassPathOnly />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="BuggyIntDListTest" />
+      <option name="METHOD_NAME" value="testMergeIntDList" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" value="-XX:+ShowCodeDetailsInExceptionMessages" />
+      <option name="PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <useClassPathOnly />
+      <option name="MAIN_CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-XX:+ShowCodeDetailsInExceptionMessages" />
+      <option name="PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="TestNG">
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+      <option name="PROGRAM_PARAMETERS" />
+      <predefined_log_file enabled="true" id="idea.log" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.BuggyIntDListTest.testMergeIntDList" />
+        <item itemvalue="JUnit.ArithmeticTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="18a7bf0e-0ccb-4fb6-86ee-7e69f25eecef" name="Default Changelist" comment="" />
+      <created>1599806959253</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1599806959253</updated>
+      <workItem from="1599806960695" duration="698000" />
+      <workItem from="1599845176653" duration="1000" />
+      <workItem from="1599846021931" duration="1578000" />
+      <workItem from="1599971961195" duration="500000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="204" y="123" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1599806973556">
+      <screen x="38" y="23" width="1402" height="877" />
+    </state>
+    <state x="204" y="123" key="#com.intellij.execution.impl.EditConfigurationsDialog/38.23.1402.877@38.23.1402.877" timestamp="1599806973556" />
+    <state width="0" height="0" key="GridCell.Tab.0.bottom" timestamp="1599847604425">
+      <screen x="35" y="23" width="1405" height="877" />
+    </state>
+    <state width="0" height="0" key="GridCell.Tab.0.bottom/35.23.1405.877@35.23.1405.877" timestamp="1599847604425" />
+    <state width="1360" height="231" key="GridCell.Tab.0.bottom/37.23.1403.877@37.23.1403.877" timestamp="1599845153059" />
+    <state width="1360" height="231" key="GridCell.Tab.0.bottom/38.23.1402.877@38.23.1402.877" timestamp="1599807190683" />
+    <state width="0" height="0" key="GridCell.Tab.0.center" timestamp="1599847604424">
+      <screen x="35" y="23" width="1405" height="877" />
+    </state>
+    <state width="0" height="0" key="GridCell.Tab.0.center/35.23.1405.877@35.23.1405.877" timestamp="1599847604424" />
+    <state width="1360" height="231" key="GridCell.Tab.0.center/37.23.1403.877@37.23.1403.877" timestamp="1599845153058" />
+    <state width="1360" height="231" key="GridCell.Tab.0.center/38.23.1402.877@38.23.1402.877" timestamp="1599807190682" />
+    <state width="0" height="0" key="GridCell.Tab.0.left" timestamp="1599847604423">
+      <screen x="35" y="23" width="1405" height="877" />
+    </state>
+    <state width="0" height="0" key="GridCell.Tab.0.left/35.23.1405.877@35.23.1405.877" timestamp="1599847604423" />
+    <state width="1360" height="231" key="GridCell.Tab.0.left/37.23.1403.877@37.23.1403.877" timestamp="1599845153057" />
+    <state width="1360" height="231" key="GridCell.Tab.0.left/38.23.1402.877@38.23.1402.877" timestamp="1599807190682" />
+    <state width="0" height="0" key="GridCell.Tab.0.right" timestamp="1599847604424">
+      <screen x="35" y="23" width="1405" height="877" />
+    </state>
+    <state width="0" height="0" key="GridCell.Tab.0.right/35.23.1405.877@35.23.1405.877" timestamp="1599847604424" />
+    <state width="1360" height="231" key="GridCell.Tab.0.right/37.23.1403.877@37.23.1403.877" timestamp="1599845153059" />
+    <state width="1360" height="231" key="GridCell.Tab.0.right/38.23.1402.877@38.23.1402.877" timestamp="1599807190683" />
+    <state x="241" y="63" key="SettingsEditor" timestamp="1599807042111">
+      <screen x="38" y="23" width="1402" height="877" />
+    </state>
+    <state x="241" y="63" key="SettingsEditor/38.23.1402.877@38.23.1402.877" timestamp="1599807042111" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/IntDList/BuggyIntDList.java</url>
+          <line>76</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/IntDList/BuggyIntDList.java</url>
+          <line>77</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/IntDList/BuggyIntDList.java</url>
+          <line>78</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/IntDList/BuggyIntDList.java</url>
+          <line>79</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/IntDList/BuggyIntDList.java</url>
+          <line>81</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/IntDList/BuggyIntDListTest.java</url>
+          <line>46</line>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

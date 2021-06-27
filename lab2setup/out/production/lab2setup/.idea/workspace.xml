@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="9a5227c5-0948-4deb-8406-d57b782cfd0c" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../lab3/Arithmetic/Arithmetic.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab3/Arithmetic/ArithmeticTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab3/Flik/Flik.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab3/Flik/HorribleSteve.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab3/IntDList/BuggyIntDList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab3/IntDList/BuggyIntDListTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab3/IntDList/IntDList.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1h5YzRjV8eOrnWWZKBrF9mNOG4N" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
+  </component>
+  <component name="RunManager" selected="Application.CheckLabConfig">
+    <configuration name="CheckLabConfig" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="CheckLabConfig" />
+      <module name="lab2setup" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GetEnvironmentVariables" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="GetEnvironmentVariables" />
+      <module name="lab2setup" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DogTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="lab2setup" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="DogTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.CheckLabConfig" />
+        <item itemvalue="Application.GetEnvironmentVariables" />
+        <item itemvalue="JUnit.DogTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9a5227c5-0948-4deb-8406-d57b782cfd0c" name="Default Changelist" comment="" />
+      <created>1599302681783</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1599302681783</updated>
+      <workItem from="1599302683037" duration="998000" />
+      <workItem from="1599522413289" duration="461000" />
+      <workItem from="1599522922925" duration="73000" />
+      <workItem from="1599523009794" duration="340000" />
+      <workItem from="1599845140924" duration="5000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="492" y="338" key="#com.intellij.ide.actions.ChooseComponentsToExportDialog" timestamp="1599522993728">
+      <screen x="45" y="23" width="1395" height="877" />
+    </state>
+    <state x="492" y="338" key="#com.intellij.ide.actions.ChooseComponentsToExportDialog/45.23.1395.877/34.-1897.1080.1897@45.23.1395.877" timestamp="1599522993728" />
+    <state width="1351" height="231" key="GridCell.Tab.0.bottom" timestamp="1599522995448">
+      <screen x="45" y="23" width="1395" height="877" />
+    </state>
+    <state width="655" height="231" key="GridCell.Tab.0.bottom/40.23.1400.877@40.23.1400.877" timestamp="1599304239828" />
+    <state width="1351" height="231" key="GridCell.Tab.0.bottom/45.23.1395.877/34.-1897.1080.1897@45.23.1395.877" timestamp="1599522995448" />
+    <state width="1351" height="231" key="GridCell.Tab.0.center" timestamp="1599522995448">
+      <screen x="45" y="23" width="1395" height="877" />
+    </state>
+    <state width="655" height="231" key="GridCell.Tab.0.center/40.23.1400.877@40.23.1400.877" timestamp="1599304239827" />
+    <state width="1351" height="231" key="GridCell.Tab.0.center/45.23.1395.877/34.-1897.1080.1897@45.23.1395.877" timestamp="1599522995448" />
+    <state width="1351" height="231" key="GridCell.Tab.0.left" timestamp="1599522995448">
+      <screen x="45" y="23" width="1395" height="877" />
+    </state>
+    <state width="655" height="231" key="GridCell.Tab.0.left/40.23.1400.877@40.23.1400.877" timestamp="1599304239827" />
+    <state width="1351" height="231" key="GridCell.Tab.0.left/45.23.1395.877/34.-1897.1080.1897@45.23.1395.877" timestamp="1599522995448" />
+    <state width="1351" height="231" key="GridCell.Tab.0.right" timestamp="1599522995448">
+      <screen x="45" y="23" width="1395" height="877" />
+    </state>
+    <state width="655" height="231" key="GridCell.Tab.0.right/40.23.1400.877@40.23.1400.877" timestamp="1599304239828" />
+    <state width="1351" height="231" key="GridCell.Tab.0.right/45.23.1395.877/34.-1897.1080.1897@45.23.1395.877" timestamp="1599522995448" />
+    <state x="115" y="-1494" key="SettingsEditor" timestamp="1599523347614">
+      <screen x="34" y="-1897" width="1080" height="1897" />
+    </state>
+    <state x="29" y="33" key="SettingsEditor/41.23.1399.877@41.23.1399.877" timestamp="1599302766770" />
+    <state x="115" y="-1494" key="SettingsEditor/45.23.1395.877/34.-1897.1080.1897@45.23.1395.877" timestamp="1599523347614" />
+  </component>
+</project>
